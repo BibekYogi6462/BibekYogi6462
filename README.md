@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHPFBvGBfKAzQ/profile-displaybackgroundimage-shrink_350_1400/B4DZVXRF_uG8AY-/0/1740925854934?e=1750896000&v=beta&t=xR4iG7Sn7bJMMMcSIc2UuAMlqosviEKGAtJhlBw48SM" alt="Bibek Yogi Banner" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Bibek Yogi</h1>
 <h3 align="center">React Native & Full Stack (MERN) Developer</h3>
 
