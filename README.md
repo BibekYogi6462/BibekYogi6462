@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Tech Stack & Tools I Use
+## Tech Stack & Tools I Use
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
@@ -36,7 +36,7 @@
 ---
 
 
-<h2 align="center">⚡️ Where to find me</h2>
+<h2 align="center"> Where to find me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bibek-yogi-65a323351/" target="_blank">
@@ -55,7 +55,7 @@
 
 ---
 
-<h2 align="center">🎯 Personal Traits</h2>
+<h2 align="center">Personal Traits</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Hardworking-blueviolet?style=for-the-badge" />
