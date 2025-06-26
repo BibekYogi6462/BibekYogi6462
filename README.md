@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHPFBvGBfKAzQ/profile-displaybackgroundimage-shrink_350_1400/B4DZVXRF_uG8AY-/0/1740925854934?e=1750896000&v=beta&t=xR4iG7Sn7bJMMMcSIc2UuAMlqosviEKGAtJhlBw48SM" alt="Bibek Yogi Banner" />
+  <!--<img src="https://media.licdn.com/dms/image/v2/D4D16AQHPFBvGBfKAzQ/profile-displaybackgroundimage-shrink_350_1400/B4DZVXRF_uG8AY-/0/1740925854934?e=1750896000&v=beta&t=xR4iG7Sn7bJMMMcSIc2UuAMlqosviEKGAtJhlBw48SM" alt="Bibek Yogi Banner" /> -->
+  <img src="https://github.com/bibekdk/Portfolio-website/blob/master/Your%20paragraph%20text.png" alt = "Bibek Yogi Banner">
+
 </p>
 
 
