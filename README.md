@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Bibek Yogi</h1>
-<h3 align="center">React Native & Full Stack (MERN) Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">Passionate about creating intuitive, scalable, and dynamic applications using the MERN stack, React Native, and modern web technologies.</p>
 
