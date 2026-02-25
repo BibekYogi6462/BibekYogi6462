@@ -41,42 +41,49 @@ Passionate about building scalable, secure, and dynamic applications using Java,
 
 </p>
 
----
+## 🚀 Technical Overview
 
-## 💻 Backend Expertise
+<table>
+<tr>
+<td valign="top" width="33%">
 
+### 💻 Backend Expertise
 - Core Java & Advanced Java  
 - Spring Core & Spring Boot  
 - Spring MVC  
 - Spring Data JPA  
 - Hibernate ORM  
 - REST API Development  
-- Microservices (Learning & Building)  
-- Node.js & Express API Development  
+- Microservices  
+- Node.js & Express  
 - MVC Architecture  
 
----
+</td>
 
-## 🖥️ Frontend Experience
+<td valign="top" width="33%">
 
+### 🖥️ Frontend Experience
 - React.js  
 - React Native  
-- Thymeleaf (Spring Boot Template Engine)  
+- Thymeleaf  
 - HTML5 & CSS3  
 - Tailwind CSS  
-- Responsive & Interactive UI Design  
+- Responsive UI Design  
 
----
+</td>
 
-## 🧠 Computer Science Foundations
+<td valign="top" width="33%">
 
+### 🧠 CS Foundations
 - Data Structures & Algorithms  
 - OOP & Design Principles  
 - SQL & Database Design  
-- Computer Networking Basics  
-- System Design Fundamentals (Learning Phase)  
+- Computer Networking  
+- System Design Fundamentals  
 
----
+</td>
+</tr>
+</table>
 
 <h2 align="center">🌍 Where to find me</h2>
 
