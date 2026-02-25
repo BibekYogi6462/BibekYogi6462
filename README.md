@@ -11,84 +11,75 @@ Passionate about building scalable, secure, and dynamic applications using Java,
 
 ---
 
-##  Tech Stack & Tools I Use
+## 🚀 Tech Stack & Tools I Use
 
 <p align="center">
-
   <!-- Java & Spring -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
 
   <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 
   <!-- Node Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 
   <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 
   <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/>
-
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
-## 🚀 Technical Overview
 
-<div align="center">
+## 📊 Technical Overview
 
-<table width="90%">
-<tr>
-
-<td valign="top" width="33%">
-
-### 💻 Backend Expertise
-- Core Java & Advanced Java  
-- Spring Core & Spring Boot  
-- Spring MVC  
-- Spring Data JPA  
-- Hibernate ORM  
-- REST API Development  
-- Microservices  
-- Node.js & Express  
-- MVC Architecture  
-
-</td>
-
-<td valign="top" width="33%">
-
-### 🖥️ Frontend Experience
-- React.js  
-- React Native  
-- Thymeleaf  
-- HTML5 & CSS3  
-- Tailwind CSS  
-- Responsive UI Design  
-
-</td>
-
-<td valign="top" width="33%">
-
-### 🧠 CS Foundations
-- Data Structures & Algorithms  
-- OOP & Design Principles  
-- SQL & Database Design  
-- Computer Networking  
-- System Design Fundamentals  
-
-</td>
-
-</tr>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">💻 Backend Expertise</h3>
+      <ul>
+        <li>Core Java & Advanced Java</li>
+        <li>Spring Core & Spring Boot</li>
+        <li>Spring MVC</li>
+        <li>Spring Data JPA</li>
+        <li>Hibernate ORM</li>
+        <li>REST API Development</li>
+        <li>Microservices</li>
+        <li>Node.js & Express</li>
+        <li>MVC Architecture</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🖥️ Frontend Experience</h3>
+      <ul>
+        <li>React.js</li>
+        <li>React Native</li>
+        <li>Thymeleaf</li>
+        <li>HTML5 & CSS3</li>
+        <li>Tailwind CSS</li>
+        <li>Responsive UI Design</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 CS Foundations</h3>
+      <ul>
+        <li>Data Structures & Algorithms</li>
+        <li>OOP & Design Principles</li>
+        <li>SQL & Database Design</li>
+        <li>Computer Networking</li>
+        <li>System Design Fundamentals</li>
+      </ul>
+    </td>
+  </tr>
 </table>
-
-</div>
 
 <h2 align="center">🌍 Where to find me</h2>
 
@@ -106,5 +97,3 @@ Passionate about building scalable, secure, and dynamic applications using Java,
     <img src="https://img.shields.io/badge/-Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-
