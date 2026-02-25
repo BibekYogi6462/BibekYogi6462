@@ -62,7 +62,7 @@ Passionate about building scalable, secure, and dynamic applications using Java,
 
 <td valign="top" width="33%">
 
-###  Frontend Experience
+### 💻 Frontend Experience
 - React.js  
 - React Native  
 - Thymeleaf  
@@ -74,7 +74,7 @@ Passionate about building scalable, secure, and dynamic applications using Java,
 
 <td valign="top" width="33%">
 
-###  CS Foundations
+### 💻 CS Foundations
 - Data Structures & Algorithms  
 - OOP & Design Principles  
 - SQL & Database Design  
