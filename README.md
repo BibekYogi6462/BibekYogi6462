@@ -1,39 +1,84 @@
 <p align="center">
-  <!--<img src="https://media.licdn.com/dms/image/v2/D4D16AQHPFBvGBfKAzQ/profile-displaybackgroundimage-shrink_350_1400/B4DZVXRF_uG8AY-/0/1740925854934?e=1750896000&v=beta&t=xR4iG7Sn7bJMMMcSIc2UuAMlqosviEKGAtJhlBw48SM" alt="Bibek Yogi Banner" /> -->
-  <img src="https://github.com/bibekdk/Portfolio-website/blob/master/Your%20paragraph%20text.png" alt = "Bibek Yogi Banner">
-
+  <img src="https://github.com/bibekdk/Portfolio-website/blob/master/Your%20paragraph%20text.png" alt="Bibek Yogi Banner">
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Bibek Yogi</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | Java Spring Boot & MERN Stack</h3>
 
-<p align="center">Passionate about creating intuitive, scalable, and dynamic applications using the MERN stack, React Native, and modern web technologies.</p>
+<p align="center">
+Passionate about building scalable, secure, and dynamic applications using Java, Spring Boot, Thymeleaf, MERN stack, React Native, and modern web technologies.
+</p>
 
 ---
 
-## Tech Stack & Tools I Use
+## 🚀 Tech Stack & Tools I Use
 
 <p align="center">
+
+  <!-- Java & Spring -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40"/>
+
+  <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"/>
+
+  <!-- Node Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40"/>
+
+  <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"/>
+
+  <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/>
+
 </p>
 
 ---
 
+## 💻 Backend Expertise
 
-<h2 align="center"> Where to find me</h2>
+- Core Java & Advanced Java  
+- Spring Core & Spring Boot  
+- Spring MVC  
+- Spring Data JPA  
+- Hibernate ORM  
+- REST API Development  
+- Microservices (Learning & Building)  
+- Node.js & Express API Development  
+- MVC Architecture  
+
+---
+
+## 🖥️ Frontend Experience
+
+- React.js  
+- React Native  
+- Thymeleaf (Spring Boot Template Engine)  
+- HTML5 & CSS3  
+- Tailwind CSS  
+- Responsive & Interactive UI Design  
+
+---
+
+## 🧠 Computer Science Foundations
+
+- Data Structures & Algorithms  
+- OOP & Design Principles  
+- SQL & Database Design  
+- Computer Networking Basics  
+- System Design Fundamentals (Learning Phase)  
+
+---
+
+<h2 align="center">🌍 Where to find me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bibek-yogi-65a323351/" target="_blank">
@@ -52,7 +97,7 @@
 
 ---
 
-<h2 align="center">Personal Traits</h2>
+<h2 align="center">🔥 Personal Traits</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Hardworking-blueviolet?style=for-the-badge" />
@@ -60,8 +105,18 @@
   <img src="https://img.shields.io/badge/-Team_Player-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Continuous_Learner-ff6347?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Problem_Solver-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Tech_Enthusiast-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Backend_Focused-yellow?style=for-the-badge" />
 </p>
 
 ---
 
+## 🎯 Current Focus
+
+- Mastering Spring Boot & Microservices  
+- Strengthening Data Structures & Algorithms  
+- Building Production-Ready Backend Systems  
+- Preparing for Product-Based / MAANG-Level Engineering Roles 🚀  
+
+---
+
+⭐️ From [BibekYogi6462](https://github.com/BibekYogi6462)
