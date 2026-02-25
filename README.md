@@ -11,7 +11,7 @@ Passionate about building scalable, secure, and dynamic applications using Java,
 
 ---
 
-## 🚀 Tech Stack & Tools I Use
+##  Tech Stack & Tools I Use
 
 <p align="center">
 
@@ -41,7 +41,7 @@ Passionate about building scalable, secure, and dynamic applications using Java,
 
 </p>
 
-## 🚀 Technical Overview
+##  Technical Overview
 
 <table>
 <tr>
@@ -62,7 +62,7 @@ Passionate about building scalable, secure, and dynamic applications using Java,
 
 <td valign="top" width="33%">
 
-### 🖥️ Frontend Experience
+###  Frontend Experience
 - React.js  
 - React Native  
 - Thymeleaf  
@@ -74,7 +74,7 @@ Passionate about building scalable, secure, and dynamic applications using Java,
 
 <td valign="top" width="33%">
 
-### 🧠 CS Foundations
+###  CS Foundations
 - Data Structures & Algorithms  
 - OOP & Design Principles  
 - SQL & Database Design  
@@ -104,7 +104,7 @@ Passionate about building scalable, secure, and dynamic applications using Java,
 
 ---
 
-<h2 align="center">🔥 Personal Traits</h2>
+<h2 align="center"> Personal Traits</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Hardworking-blueviolet?style=for-the-badge" />
