@@ -115,15 +115,3 @@ Passionate about building scalable, secure, and dynamic applications using Java,
   <img src="https://img.shields.io/badge/-Backend_Focused-yellow?style=for-the-badge" />
 </p>
 
----
-
-## 🎯 Current Focus
-
-- Mastering Spring Boot & Microservices  
-- Strengthening Data Structures & Algorithms  
-- Building Production-Ready Backend Systems  
-- Preparing for Product-Based / MAANG-Level Engineering Roles 🚀  
-
----
-
-⭐️ From [BibekYogi6462](https://github.com/BibekYogi6462)
