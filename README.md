@@ -40,11 +40,13 @@ Passionate about building scalable, secure, and dynamic applications using Java,
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/>
 
 </p>
+## 🚀 Technical Overview
 
-##  Technical Overview
+<div align="center">
 
-<table>
+<table width="90%">
 <tr>
+
 <td valign="top" width="33%">
 
 ### 💻 Backend Expertise
@@ -62,7 +64,7 @@ Passionate about building scalable, secure, and dynamic applications using Java,
 
 <td valign="top" width="33%">
 
-### 💻 Frontend Experience
+### 🖥️ Frontend Experience
 - React.js  
 - React Native  
 - Thymeleaf  
@@ -74,7 +76,7 @@ Passionate about building scalable, secure, and dynamic applications using Java,
 
 <td valign="top" width="33%">
 
-### 💻 CS Foundations
+### 🧠 CS Foundations
 - Data Structures & Algorithms  
 - OOP & Design Principles  
 - SQL & Database Design  
@@ -82,8 +84,11 @@ Passionate about building scalable, secure, and dynamic applications using Java,
 - System Design Fundamentals  
 
 </td>
+
 </tr>
 </table>
+
+</div>
 
 <h2 align="center">🌍 Where to find me</h2>
 
@@ -102,16 +107,4 @@ Passionate about building scalable, secure, and dynamic applications using Java,
   </a>
 </p>
 
----
-
-<h2 align="center"> Personal Traits</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Hardworking-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Passionate-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Team_Player-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Continuous_Learner-ff6347?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Problem_Solver-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Backend_Focused-yellow?style=for-the-badge" />
-</p>
 
